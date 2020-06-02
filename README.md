@@ -5,9 +5,9 @@
 *** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
 -->
 
-[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rocketseat.RocketseatReactNative.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
-[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
-[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=rocketseat.RocketseatReactNative)
+[![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/rocketseat.RocketseatReactNative.svg?label=Visual%20Studio%20Marketplace)](https://marketplace.visualstudio.com/items?itemName=MacleySousa.snippetsreactnative)
+[![Visual Studio Marketplace Installs](https://img.shields.io/visual-studio-marketplace/i/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=MacleySousa.snippetsreactnative)
+[![Visual Studio Marketplace Rating](https://img.shields.io/visual-studio-marketplace/r/rocketseat.RocketseatReactNative.svg)](https://marketplace.visualstudio.com/items?itemName=MacleySousa.snippetsreactnative)
 ![GitHub](https://img.shields.io/github/license/rocketseat/rocketseat-vscode-react-native-snippets.svg)
 
 <!-- PROJECT LOGO -->
