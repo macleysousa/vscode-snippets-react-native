@@ -1,0 +1,45 @@
+{
+    "name": "snippetsreactnative",
+    "description": "Snippets React Native created by Macley Sousa.",
+    "version": "1.0.0",
+    "displayName": "Snippets React Native",
+    "publisher": "maclyesousa",
+    "icon": "images/icon.jpg",
+    "galleryBanner": {
+        "color": "#5DD4F4",
+        "theme": "dark"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/macleysousa/vscode-snippets-react-native"
+    },
+    "engines": {
+        "vscode": "0.10.x"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [{
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets-ts.json"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets-ts.json"
+            }
+        ]
+    },
+    "devDependencies": {
+        "vsce": "^1.75.0"
+    }
+}
