@@ -78,6 +78,18 @@
         ],
         "description": "Create React Native Styled Components file"
     },
+    "StyleSheet": {
+        "prefix": "rn-stylesheet",
+        "body": [
+            "const ${1:styles} = StyleSheet.create({",
+            "    ${2:container}: {",
+            "        ${3}",
+            "    },",
+            "});",
+            ""
+        ],
+        "description": "Create React Native Styled Components StyleSheet"
+    },
     "api": {
         "prefix": "api",
         "body": [
