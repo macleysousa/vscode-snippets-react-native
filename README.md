@@ -5,7 +5,7 @@
 *** Obrigado novamente! Agora vamos rodar esse projeto incrível :D
 -->
 
-  <h3 align="center">React Native Snippets</h3>
+  <h1 align="center">React Native Snippets</h1>
 </p>
 
 ## Sobre o Projeto
