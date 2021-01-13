@@ -8,57 +8,57 @@
   <h1 align="center">React Native Snippets</h1>
 </p>
 
-## Sobre o Projeto
+## About the Project
 
-Este projeto visa a disponibilização de um conjunto de Snippets ou atalhos para criação de componentes e arquivos de configuração em aplicações React Native.
+This project provides a set of Snippets or shortcuts for creating components and configuration files in React Native applications.
 
-## Começando
+## Begin
 
-### Instalação
+### Installation
 
-Para instalar uma extensão você pode executar o **Command Pallete** através do comando `Ctrl + Shift + P` ou `Cmd + Shift + P` , digitar `Install Extensions` e por fim dar um `Enter`, feito isso pesquise por Rocketseat e você vai encontrar a extensão **Rocketseat React Native**.
+To install an extension you can run ** Command Pallete ** using the command `Ctrl + Shift + P` or` Cmd + Shift + P`, type `Install Extensions` and finally give an` Enter`.
 
-### Linguagens Suportadas
+### Supported Languages
 
 - JavaScript (.js)
 - TypeScript (.ts)
 - JavaScript React (.jsx)
 - TypeScript React (.tsx)
 
-### Como Usar?
+### How to use?
 
-Quando você instalar a Extensão o desenvolvimento em React Native será bem mais divertido.
+When you install the Extension the development in React Native will be much more fun.
 
 ![Create React Native Component](https://raw.githubusercontent.com/Rocketseat/rocketseat-vscode-react-native-snippets/master/images/component.gif)
 
 ### Snippets
 
-Abaixo segue a lista com todos os Snippets disponíveis e os gatilhos para cada um. O **⇥** significa a tecla `TAB`.
+Below is the list of all available Snippets and the triggers for each. The ** ⇥ ** means the `TAB` key.
 
-|                 Gatilho | Conteúdo                                                                      |
-| ----------------------: | ----------------------------------------------------------------------------- |
-|                 `rnc →` | Cria um Componente **Stateful**                                               |
-|                `rnsc →` | Cria um Componente **Stateless**                                              |
-|                `rnfc →` | Cria um Componente **Functional**                                             |
-|                `rnfcc →` | Cria um Componente **Functional**                                            |
-|           `styled-rn →` | Cria um arquivo de Estilização com **Styled Components**                      |
-|           `rn-stylesheet →` | Cria um arquivo de Estilização com **StyleSheet Components**                      |
+|                 Trigger | Content                                                                      |
+| ----------------------: | -----------------------------------------------------------------------------|
+|                 `rnc →` | Creates a Component **Stateful**                                             |
+|                `rnsc →` | Creates a Component **Stateless**                                            |
+|                `rnfc →` | Creates a Component **Functional**                                           |
+|                `rnfcc →`| Creates a Component **Functional**                                           |
+|           `styled-rn →` | Creates a Stylization file with **Styled Components**                        |
+|           `rn-stylesheet →` | Creates a Stylization file with **StyleSheet Components**                |
 
 <!-- CONTRIBUTING -->
 
-## Contribuição
+## Contribution
 
-Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
+Contributions are what make the open source community an incredible place to learn, inspire and create. Any contribution you make will be ** much appreciated **.
 
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)
-3. Adicione suas mudanças (`git add .`)
-4. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)
-5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
-6. Abra uma Pull Request
+1. Fork the project
+2. Create a Branch for your Feature (`git checkout -b feature / FeatureIncrivel`)
+3. Add your changes (`git add .`)
+4. Commit your changes (`git commit -m 'Adding an awesome Feature!`)
+5. Push the Branch (`git push origin feature / FeatureIncrivel`)
+6. Open a Pull Request
 
 <!-- LICENSE -->
 
 ## Licença
 
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
+Distributed under the MIT license. See `LICENSE` for more information.
