@@ -134,5 +134,14 @@
             ""
         ],
         "description": "Create Axios Configuration file"
+    },
+    "region": {
+        "prefix": "region",
+        "body": [
+            "//#region ${1}",
+            "${2}",
+            "//#endregion"
+        ],
+        "description": "Create region"
     }
 }

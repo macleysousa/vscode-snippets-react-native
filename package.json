@@ -1,7 +1,7 @@
 {
     "name": "snippetsreactnative",
     "description": "Snippets React Native created by Macley Sousa.",
-    "version": "1.0.2",
+    "version": "1.0.4",
     "displayName": "Snippets React Native",
     "publisher": "MacleySousa",
     "icon": "images/icon.jpg",
@@ -21,7 +21,8 @@
         "Snippets"
     ],
     "contributes": {
-        "snippets": [{
+        "snippets": [
+            {
                 "language": "javascriptreact",
                 "path": "./snippets/snippets.json"
             },
