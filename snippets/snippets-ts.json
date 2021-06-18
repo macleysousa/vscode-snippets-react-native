@@ -112,5 +112,14 @@
             "//#endregion"
         ],
         "description": "Create region"
+    },
+    "regionStartEnd": {
+        "prefix": "#regionStartEnd",
+        "body": [
+            "//#region ${1}",
+            "${2}",
+            "//#endregion"
+        ],
+        "description": "Create region"
     }
 }
