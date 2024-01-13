@@ -1,8 +1,8 @@
 {
-    "name": "snippetsreactnative",
-    "description": "Snippets React Native created by Macley Sousa.",
-    "version": "1.0.5",
-    "displayName": "Snippets React Native",
+    "name": "simples-snippets-react",
+    "description": "Snippets React created by Macley Sousa.",
+    "version": "1.0.0",
+    "displayName": "Simples Snippets React",
     "publisher": "MacleySousa",
     "icon": "images/icon.jpg",
     "galleryBanner": {
