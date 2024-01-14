@@ -17,9 +17,9 @@
         "body": [
             "import React from 'react';",
             "",
-            "function ${2:${TM_FILENAME_BASE}Element}(props: ${3:HTMLInputElement}, ref: React.LegacyRef<${3:HTMLInputElement}>) {",
+            "function ${2:${TM_FILENAME_BASE}Element}(props: ${3:React.InputHTMLAttributes<HTMLInputElement>}, ref: React.LegacyRef<${4:HTMLInputElement}>) {",
             "    return (",
-            "        <${4:input} ref={ref}>${5}</${4:input}>",
+            "        <${5:input} ref={ref} {...props}>${6}</${5:input}>",
             "    );",
             "}",
             "",
