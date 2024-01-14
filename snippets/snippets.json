@@ -4,8 +4,6 @@
         "body": [
             "import React from 'react';",
             "",
-            "// import { Container } from './styles';",
-            "",
             "export default function ${1:${TM_DIRECTORY/^.*(\\/|\\\\)([^(\\/|\\\\)]+)$/$2/}}() {",
             "    return (",
             "        <${2:div}>${3}</${2:div}>",
@@ -14,12 +12,25 @@
         ],
         "description": "Create React Functional Component"
     },
+    "component-functional-legacy": {
+        "prefix": "rflc",
+        "body": [
+            "import React from 'react';",
+            "",
+            "function ${2:${TM_FILENAME_BASE}Element}(props, ref) {",
+            "    return (",
+            "        <${4:input} ref={ref}>${5}</${4:input}>",
+            "    );",
+            "}",
+            "",
+            "export const ${1:${TM_FILENAME_BASE}} = React.forwardRef(${2:${TM_FILENAME_BASE}Element});"
+        ],
+        "description": "Create React Simple Component"
+    },
     "component-simple": {
         "prefix": "rcc",
         "body": [
             "import React from 'react';",
-            "",
-            "// import { Container } from './styles';",
             "",
             "export const ${1:${TM_FILENAME_BASE}} = () => {",
             "    return (",
